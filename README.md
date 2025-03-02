@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arun-375
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on devops
 - 📫 How to reach me arunvijay.375@gmail.com
   
